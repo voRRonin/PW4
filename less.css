@@ -1,0 +1,34 @@
+body {
+  background-image: url(suba.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  justify-content: center;
+  display: flex;
+}
+.naz {
+  padding-bottom: 50px;
+  height: 400px;
+  width: 50%;
+  justify-content: center;
+  display: flex;
+  margin-top: 150px;
+  border-radius: 10px;
+  flex-direction: column;
+  align-items: center;
+  color: rgb(123, 161, 135);
+}
+.input1 {
+  height: 30px;
+  width: 250px;
+  border: 0px solid rgb(30, 31, 133);
+  border-bottom: solid 1px rgb(162, 67, 206);
+  background: transparent;
+  color: rgb(34, 38, 43);
+}
+.input2 {
+ height: 30px;
+  width: 250px;
+  border: 0px solid rgb(73, 10, 10);
+  border-bottom: solid 1px rgba(75, 20, 20, 0.068);
+  background: transparent;
+  color: rgb(13, 66, 116);
